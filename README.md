@@ -1,2 +1,2 @@
 # ShopVerse
-ShopVerse : An Ecommerce Store Online Shopping System
+ShopVerse : Ecommerce Store An Online Shopping System
